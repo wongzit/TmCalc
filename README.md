@@ -1,5 +1,5 @@
 # Tm.Calc
-![](tmcalc_wide.png)
+![](TmCalc_wide.png)
 
 Latest version: **1.0.1**, updated at 2022-01-25
 
