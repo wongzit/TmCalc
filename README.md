@@ -57,6 +57,9 @@ Input menu number to modify concentration, or input primer sequences:
 e.g.: ATCGGACTAGACGAT,AGGGTCTTACAGAGCT,GGGCTTTAGAATAGA
 
 ```
+## Download
+
+Executable file for **macOS** and source code could be download from this repo.
 
 ## LICENSE
 Tm.**Calc** is following MIT license. The LICENSE file could be found along with Tm.**Calc** source code.
