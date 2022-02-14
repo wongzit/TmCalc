@@ -7,11 +7,11 @@ Latest version: **2.0.1**, updated at 2022-02-14
 
 Input sequences (up to 6, case-insensitive) in "Primer Sequence" entries, and click "***Calculate***".
 
-![](/program/main_window.png)
+![](/assets/main_window.png)
 
 The GC% and Tm calculated with Nearest neighbor, Wallace and GC% methods would be displayed in a new window.
 
-![](/program/result_window.png)
+![](/assets/result_window.png)
 
 
 ## Modify Parameters
